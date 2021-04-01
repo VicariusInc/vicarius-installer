@@ -1,5 +1,5 @@
 # vicarius-installer
 
-Windows - Topia.exe
-Linux - Topia.sh
-MacOs - Topia
+Windows - Topia.exe <br/>
+Linux - Topia.sh <br/>
+MacOs - Topia <br/>
